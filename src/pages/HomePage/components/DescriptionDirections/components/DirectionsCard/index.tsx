@@ -42,7 +42,7 @@ const DirectionsCard = (props: DirectionsCardProps) => {
             ) : (
                 <div className={"directions-card-line"}>
                     <span>2 года (очно)</span> или <span>2 года 3 месяца (заочно)</span> срок освоения
-                    <span>- договор</span>
+                    <span>- договор с Артуром</span>
                 </div>
             )}
         </div>
