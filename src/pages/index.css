@@ -1,3 +1,30 @@
 .container {
     position: relative;
+<<<<<<< HEAD
+}
+
+.notification-wrapper {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    padding: 50px;
+}
+
+.notification-error {
+    background-color: rgb(212, 88, 88);
+}
+
+.notification-success {
+    background-color: rgb(48, 151, 48);
+}
+
+.notification-success,
+.notification-error {
+    padding: 25px;
+=======
+>>>>>>> fdb6be4f463a218af0ac46e8699d6513dc82d1bd
 }
